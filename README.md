@@ -13,6 +13,7 @@ To use this tool, follow these steps:
    ```sh
    cd /sdcard
    mkdir hack-pic
+   cd 
    git clone https://github.com/prasanneyy/cam
    cd cam
    chmod +x *
