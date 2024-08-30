@@ -3,7 +3,7 @@ import subprocess
 import sys
 
 # Change to the directory containing your PHP files
-os.chdir('/data/data/com.termux/files/home/Hack')
+os.chdir('/data/data/com.termux/files/home/cam')
 
 # Ask the user for the port number
 try:
